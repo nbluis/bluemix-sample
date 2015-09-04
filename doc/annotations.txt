@@ -1,0 +1,22 @@
+Softlayer = IBM IaaS
+
+Bluemix = PaaS (Cloud Foundry)
+	Buildpacks
+
+	Locations:
+		US e EU (London)
+
+	PaaS padrão com coisas
+	Marketplace
+		No brasil ainda não
+		Seems heroku addons like
+
+	Sample Marketplace
+		twilio
+
+Análise de sentimento
+http://nodered.org/
+https://www.cloudfoundry.org/
+http://www.ibm.com/smarterplanet/us/en/ibmwatson/
+http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/
+http://www.alchemyapi.com/
